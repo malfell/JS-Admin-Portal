@@ -1,3 +1,9 @@
+//QUESTION
+//When I did the npm install and npm start
+//to make the local server, git bash wouldn't let me
+//do any git adds or git commits. Is there a way I'm 
+//supposed to do that? I had to leave the git commit for the end.
+
 //Fetch code I put into console log to change 
 //book title to Legends of Arathrae
 
